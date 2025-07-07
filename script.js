@@ -20,7 +20,7 @@ const projects = [
         tags: ["React", "Node.js", "MongoDB", "Express", "Cloudinary", "JWT", "Razorpay"],
         icon: "bx-clinic",
         github: "https://github.com/PETCHIVARADHAN2005/DocZap.git",
-        demo: "#"
+        demo: ""
     },
     {
         id: 2,
@@ -30,7 +30,7 @@ const projects = [
         tags: ["React", "Node.js", "MySQL", "Express", "Cloudinary", "JWT"],
         icon: "bx-plus-medical",
         github: "https://github.com/PETCHIVARADHAN2005/ACC.git",
-        demo: "#"
+        demo: ""
     },
     {
         id: 3,
@@ -40,7 +40,7 @@ const projects = [
         tags: ["Java", "Swing", "PostgreSQL"],
         icon: "bx-store",
         github: "https://github.com/PETCHIVARADHAN2005/grocery-java.git",
-        demo: "#"
+        demo: ""
     },
     {
         id: 4,
@@ -50,7 +50,7 @@ const projects = [
         tags: ["HTML", "CSS", "JavaScript"],
         icon: "bx-book-open",
         github: "https://github.com/PETCHIVARADHAN2005/Sololearn.git",
-        demo: "#"
+        demo: ""
     }
 ];
 
@@ -272,7 +272,7 @@ function initializeCertificatePopup() {
 // Typing Effect
 function initializeTypingEffect() {
     const typingText = document.querySelector('.typing-text');
-    const text = 'Petchivaradhan';
+    const text = 'Petchivaradhan L';
     let index = 0;
     let isDeleting = false;
 
